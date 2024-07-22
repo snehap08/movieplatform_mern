@@ -32,34 +32,34 @@ A full-stack movie explorer application built using the MERN stack.
 ### Install dependencies for both server and client:
 
 
-cd server
-npm install
-cd ../client
-npm install
+- cd server
+- npm install
+- cd ../client
+- npm install
 
 
 ### Run the application:
 
 Open two terminal windows.
 
-In the first terminal:
+1. In the first terminal:
 
-cd server
-npm start
+- cd server
+- npm start
 The server will run on http://localhost:5000.
 
-In the second terminal:
+2.In the second terminal:
 
-cd client
-npm start
+- cd client
+- npm start
 The client will run on http://localhost:5173.
 
 ### API Endpoints
-POST /api/auth/signup - User signup
-POST /api/auth/signin - User signin
-POST /api/movies/favorites/:id - Add a movie to favorites
-DELETE /api/movies/favorites/:id - Remove a movie from favorites
-GET /api/movies/favorites/:id - Check if a movie is in favorites
+- POST /api/auth/signup - User signup
+- POST /api/auth/signin - User signin
+- POST /api/movies/favorites/:id - Add a movie to favorites
+- DELETE /api/movies/favorites/:id - Remove a movie from favorites
+- GET /api/movies/favorites/:id - Check if a movie is in favorites
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
