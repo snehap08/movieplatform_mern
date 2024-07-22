@@ -62,7 +62,7 @@ The client will run on http://localhost:5173.
 - GET /api/movies/favorites/:id - Check if a movie is in favorites
 
 ### License
-This project is licensed under the @MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgements
 - TMDB API for movie data
