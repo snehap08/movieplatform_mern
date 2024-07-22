@@ -12,7 +12,7 @@ A full-stack movie explorer application built using the MERN stack.
 
 ## Technologies Used
 
-- MongoDB Atlas
+- MongoDB 
 - Express.js
 - React.js
 - Node.js
@@ -23,7 +23,7 @@ A full-stack movie explorer application built using the MERN stack.
 ### Prerequisites
 
 - Node.js (>= 12.x)
-- MongoDB Atlas account
+- MongoDB account
 
 ### Installation and Setup
 
